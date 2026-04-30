@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying formally about game programming and game development using unity, I also do c++ mainly learning about opengl and graphics programming, aside from c++ I also do rust programming about blockchains and network. 
+I'm currently studying formally about game programming and game development using unity, I also do c++ mainly learning about opengl and graphics programming
 
 
 ## 🌐 Socials:
