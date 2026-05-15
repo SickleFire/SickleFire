@@ -13,7 +13,7 @@ Owner of m-vis.<br>Game developer and designer.<br>Rust/C++ Developer.<br><br>I 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SickleFire&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
   ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ Sicklefire) 
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Sicklefire) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
