@@ -1,5 +1,5 @@
 # 💫 About Me:
-Owner of m-vis.<br>Game developer and designer.<br>Rust/C++ Developer.<br><br>I Love Cats.
+Coffee maker, <br>Game developer and designer.<br>Rust/C++ Developer.<br><br>I Love Cats.
 
 
 ## 🌐 Socials:
